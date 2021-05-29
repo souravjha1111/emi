@@ -1,0 +1,2 @@
+web: gunicorn bachat_loan.wsgi
+
